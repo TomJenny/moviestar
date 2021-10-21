@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\REACT NATIVE\\Project_Movie"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "movieLayout"
+	}
+}
